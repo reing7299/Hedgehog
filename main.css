@@ -1,5 +1,7 @@
-body{
+p{
 	font-family: "Avant Garde",Avantgarde,"Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+}
+body{
 	background: #2E4053;
 	color: #AAB0B7;
 }
