@@ -13,5 +13,5 @@ a{
 h1, h2, h3{
 	font-size: 2em;
 	color: #AAB0B7;
-	text-decoration: 5px 5px 15px; 
+	text-decoration: underline; 
 }
