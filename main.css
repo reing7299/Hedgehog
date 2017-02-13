@@ -10,7 +10,8 @@
 a{
 	color: #AEB3B9;
 }
-h1{
+h1, h2, h3{
+	font-size: 2em;
 	color: #AAB0B7;
 	text-shadow: 5px 5px 15px; 
 }
