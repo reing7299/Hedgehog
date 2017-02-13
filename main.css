@@ -1,7 +1,5 @@
-p{
-	font-family: "Avant Garde",Avantgarde,"Century Gothic",CenturyGothic,AppleGothic,sans-serif;
-}
-body{
+*{
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 	background: #2E4053;
 	color: #AAB0B7;
 }
@@ -10,5 +8,5 @@ a{
 }
 h1{
 	color: #AAB0B7;
-	text-shadow: 5px 5px 15px;
+	text-shadow: 5px 5px 15px; 
 }
