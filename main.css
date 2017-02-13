@@ -13,5 +13,14 @@ a{
 h1, h2, h3{
 	font-size: 2em;
 	color: #AAB0B7;
-	text-decoration: underline; 
+	text-decoration: underline;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 25%;
+	height: 100%;
+	position: fixed;
+	overflow: auto;
 }
