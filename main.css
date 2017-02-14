@@ -12,12 +12,12 @@ body{
 	width: 75%;
 	float: right;
 	padding: 15px;
-	height: 100%;
 }
 .menu{
 	width: 25%;
 	float: left;
 	padding:15% 0 0 0;
+	height: 100%
 }
 .main{
 	width: 75%;
