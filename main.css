@@ -23,4 +23,15 @@ ul{
 	height: 100%;
 	position: fixed;
 	overflow: auto;
+	background-color: #AAB0B7
+}
+li a{
+	display:block;
+	color: #2E4053;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+li a:hover{
+	background-color: #555;
+	color: #AAB0B7
 }
