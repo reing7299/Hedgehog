@@ -42,3 +42,6 @@ li a:hover{
 	background-color: #555;
 	color: #AAB0B7
 }
+img#home {
+    margin: 2% 10% 0% 25%;
+}
